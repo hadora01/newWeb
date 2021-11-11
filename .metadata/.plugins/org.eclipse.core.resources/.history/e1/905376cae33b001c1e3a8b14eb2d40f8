@@ -1,0 +1,8 @@
+package jhbook;
+
+public class StudentDAO {
+	Connection conn=null;
+	PreparedStatement pstmt;
+	
+
+}
