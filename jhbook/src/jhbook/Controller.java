@@ -13,7 +13,7 @@ import org.apache.commons.beanutils.BeanUtils;
 /**
  * Servlet implementation class Controller
  */
-@WebServlet("/Controller")
+@WebServlet(urlPatterns="/news.nhn")
 public class Controller extends HttpServlet {
 	private static final long serialVersionUID = 1L;
 	StudentDAO dao;
