@@ -15,6 +15,9 @@
 	</section>
 	<section name="quick_assist_proposal_size">
 	</section>
+	<section name="NewPackageWizardPage">
+		<item value="false" key="create_package_info_java"/>
+	</section>
 	<section name="completion_proposal_size">
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
@@ -22,7 +25,7 @@
 		<item value="1|맑은 고딕|9.0|0|WINDOWS|1|-18|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕" key="DIALOG_FONT_NAME"/>
 		<item value="1020" key="DIALOG_HEIGHT"/>
 		<item value="79" key="DIALOG_X_ORIGIN"/>
-		<item value="0" key="DIALOG_Y_ORIGIN"/>
+		<item value="11" key="DIALOG_Y_ORIGIN"/>
 	</section>
 	<section name="AddGetterSetterDialog">
 		<item value="false" key="SortOrdering"/>
