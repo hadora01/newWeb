@@ -10,22 +10,18 @@
 		<list key="textEntries">
 			<item value="1"/>
 			<item value="1"/>
-			<item value="1"/>
 		</list>
 		<list key="orderedElements">
 			<item value="org.eclipse.wst.server.ui.ServersView"/>
 			<item value="org.eclipse.ui.console.ConsoleView"/>
-			<item value="search.in.help"/>
 		</list>
 		<list key="orderedProviders">
 			<item value="org.eclipse.e4.ui.parts"/>
 			<item value="org.eclipse.e4.ui.parts"/>
-			<item value="org.eclipse.ui.actions"/>
 		</list>
 		<list key="textArray">
 			<item value="servers"/>
 			<item value="console"/>
-			<item value="sever"/>
 		</list>
 	</section>
 	<section name="NewWizardAction">

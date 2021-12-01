@@ -27,7 +27,7 @@ public class NewsController extends HttpServlet {
     private ServletContext ctx;
     
     //웹 리소스 기본경로 지정
-    private final String START_PAGE="ch10/newList.jsp";
+    private final String START_PAGE="newList.jsp";
    
    
 	public void init(ServletConfig config) throws ServletException {
